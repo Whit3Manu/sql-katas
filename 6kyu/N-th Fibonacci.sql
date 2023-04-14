@@ -1,5 +1,5 @@
 -- passes the test
--- but submit gives error -> integer out of range
+-- but admit gives error -> integer out of range
 WITH RECURSIVE cteFibo AS (
   SELECT
          CAST(0 AS INT) AS res
